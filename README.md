@@ -24,7 +24,7 @@ CREATE TABLE data_barang (
 
 ### Tampilan database yang saya buat :
 
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\database.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\database.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
@@ -45,7 +45,7 @@ if ($conn == false) {
 ?>
 ```
 ### Jika sudah terkoneksi maka tampilannya seperti ini:
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\koneksi.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\koneksi.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
@@ -113,7 +113,7 @@ $result = mysqli_query($conn, $sql);
 ```
 ### tampilan dari data barang :
 
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\index.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\index.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
@@ -209,7 +209,7 @@ stok, gambar) ';
 
 ### Tampilan tambah barang :
 
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\tambah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\tambah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
@@ -218,7 +218,7 @@ stok, gambar) ';
 pada bagian tambah barang ini anda harus memasukkan barang baru yang akan ditampilkan pada data barang.
 dan setetlah barang ditambahkan maka tampilannya seperti ini :
 ```
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\output tambah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\output tambah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 
 ## **UBAH BARANG**
@@ -333,7 +333,7 @@ if (isset($_POST['submit']))
 
 ### Tampilan ubah :
 
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\ubah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\ubah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
@@ -342,7 +342,7 @@ if (isset($_POST['submit']))
 pada bagian ubah barang ini jika anda ingin mengubah data, anda tinggal ubah saja yang ingin diubah dan data sebelumnya akan tergantikan dengan data yang baru (update data).
 maka tampilan seperti ini:
 ```
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\output ubah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\output ubah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ## **HAPUS**
 
@@ -360,7 +360,7 @@ header('location: index.php');
 
 ### Tampilan hapus :
 
-<img src="C:\xampp\htdocs\semester 4\pemrograman web 2\pertemuan4\imeg\index.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="imeg\index.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
